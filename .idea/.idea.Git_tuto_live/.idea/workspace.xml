@@ -35,6 +35,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Test2.cs" />
       </list>
     </option>
   </component>
@@ -75,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591273706694</updated>
       <workItem from="1591273819783" duration="316000" />
+      <workItem from="1591278981177" duration="31000" />
     </task>
     <servers />
   </component>
@@ -93,6 +95,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
